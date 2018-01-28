@@ -2,5 +2,8 @@
 
 ## Módulo assert de nodeJS
 ```
+mocha
+```
+```
 mocha ./test/isVowel.spec.js
 ```
